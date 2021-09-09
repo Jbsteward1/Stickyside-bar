@@ -1,0 +1,24 @@
+    h1 {
+    overflow: auto;
+   border-style: dotted;
+   font-size: xx-large;
+   color: rgba(24, 1, 5, 0.616);
+   align-items: center;
+    /* since all the elements are floating,
+       setting overflow will allow the rest of
+       the layout to flow properly */
+  }
+
+  .header-menu {
+    float: right;
+    list-style-type: none;
+  }
+  
+  .header-menu > li {
+    float: left;
+    padding-right: 10px; /* whitespace */
+  }
+
+  body{
+      background-color: cyan;
+  }
