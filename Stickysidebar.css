@@ -1,4 +1,5 @@
    h1 {
+       font-family: cursive;
        text-align: center;
     overflow: auto;
    /* border-style: dotted; */
@@ -28,16 +29,17 @@
     clear: both;
   }
   
-  .sidebar {
+  /* .sidebar {
     float: right;
     padding: 10px;
-  }
+  } */
 
   h2{
       padding: 110px;
       font-size: 100px;
       color: darkred;
       overflow: scroll;
+      font-family: cursive;
   }
 
   footer {
