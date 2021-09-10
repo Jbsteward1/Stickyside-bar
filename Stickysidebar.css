@@ -34,6 +34,7 @@
   }
 
   h2{
+      padding: 110px;
       font-size: 100px;
       color: darkred;
       overflow: scroll;
@@ -56,6 +57,7 @@
     padding-top: 35px;
   }
   .menu {
+      font-size: xx-large;
     padding-left: 20px;
     position: sticky;
     top: 20px;
